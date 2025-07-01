@@ -69,8 +69,9 @@ This notebook shows:
 ---
 # NCTBText: Bengali Dataset
 
-This dataset contains Bengali textual data curated from **NCTB (National Curriculum and Textbook Board)** textbooks, which are widely used in Bangladeshi schools.
-Source materials are derived from: https://nctb.gov.bd/
+This dataset contains Bengali textual data curated from NCTB (National Curriculum and Textbook Board) textbooks, which are widely used in Bangladeshi schools. 
+Source materials are derived from: https://nctb.gov.bd/ 
+
 ---
 
 ## Overview
