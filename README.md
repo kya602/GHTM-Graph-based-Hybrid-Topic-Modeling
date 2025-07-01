@@ -67,3 +67,23 @@ This notebook shows:
 - How to evaluate the model and extract topic keywords.
 
 ---
+# NCTBText: Bengali Dataset
+
+This dataset contains Bengali textual data curated from **NCTB (National Curriculum and Textbook Board)** textbooks, which are widely used in Bangladeshi schools.
+Source materials are derived from: https://nctb.gov.bd/
+---
+
+## Overview
+
+This dataset was curated to support research in Bengali NLP tasks such as:
+- Topic Modeling
+- Text Classification
+
+The raw text was extracted from official NCTB textbooks and processed using multiple stages of cleaning and filtering.
+
+- **File**: `NCTBText.csv`
+- **Location**: `../datasets/NCTBText/NCTBText.csv`
+- **Columns**:
+  - `text`: Cleaned paragraph-level text data extracted from Bengali textbooks.
+  - `label`: Subject/Topic of the text.
+---
