@@ -5,7 +5,7 @@ This repo contains the work behind the paper:
 
 ---
 
-## 📌 Overview
+## Overview
 
 GHTM model consists of three stages:
 
@@ -17,7 +17,7 @@ This hybrid approach helps GHTM uncover coherent, structure-aware latent topics.
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/kya602/GHTM-Graph-based-Hybrid-Topic-Modeling.git
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Prepare Data
+## Prepare Data
 
 Run the following notebook to prepare data:
 
@@ -39,7 +39,7 @@ This is a reference notebook for preprocessing and preparing data.
 
 ---
 
-## 📦 Models and Files Placement
+## Models and Files Placement
 
 - Download the GloVe models for Bangla from:  
   🔗 https://github.com/sagorbrur/GloVe-Bengali
@@ -54,7 +54,7 @@ Make sure the path matches what’s expected in the notebook.
 
 ---
 
-## 🚀 Train the Model
+## Train the Model
 
 To train the topic model and generate topic words, run:
 
