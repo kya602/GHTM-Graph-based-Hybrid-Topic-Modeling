@@ -16,4 +16,20 @@ This hybrid approach helps GHTM uncover coherent, structure-aware latent topics.
 ```bash
 git clone https://github.com/kya602/GHTM-Graph-based-Hybrid-Topic-Modeling.git
 cd GHTM-Graph-based-Hybrid-Topic-Modeling
+
 pip install -r requirements.txt
+
+
+## Prepare Data
+jupyter notebook GHTM/Data Preparation.ipynb
+
+This is a reference notebook for preparing data.
+
+## Models and Files Placement
+- Find the GloVe models for Bangla here: https://github.com/sagorbrur/GloVe-Bengali
+- Place the model here: GHTM/model/
+
+## Train the model
+jupyter notebook GHTM/GHTM.ipynb
+
+This notebook shows how to train the model for topic modeling and generate topic words. It also shows how to evaluate the model.
