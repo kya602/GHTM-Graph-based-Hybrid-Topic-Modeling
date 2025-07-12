@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Run the following notebook to prepare data:
 
 ```bash
-jupyter notebook GHTM/Data\ Preparation.ipynb
+jupyter notebook GHTM/Data Preparation.ipynb
 ```
 
 This is a reference notebook for preprocessing and preparing data.
